@@ -1,0 +1,117 @@
+body{
+    background-color:#fd7000;
+}
+
+.pic_name img{
+    width:300px; 
+    height:300px;
+    left:1px;
+    position:fixed;
+	float: left;
+	border-radius: 15px;
+}
+.random_pics img{
+    position:fixed;
+    right:200px;
+    width:150px; 
+    height:100px;
+}
+#random_pics2 img{
+    position:fixed;
+    margin-top: 100px;
+    right:200px;
+    width:150px; 
+    height:100px;
+
+}
+#random_pics3 img{
+    position:fixed;
+    margin-top: 200px;
+    right:200px;
+    width:150px; 
+    height:100px;
+
+}
+#name{
+    position: fixed;
+	float: left;
+	margin-top: 300px;
+	width:300px; 
+    height:200px;
+    left:1px;
+	background-color: #ff9200;
+	font-family:Comic-Sans;
+	border-radius: 15px;
+}
+#name h1{
+    
+    color:red;
+    font-family:Verdana,Comic-Sans;
+}
+#name h3{
+    color:Blue;
+}
+
+
+.right{
+	position:relative;
+    right:-295px;
+    width:700px;
+	margin-bottom: 230px;
+	border-radius: 15px;
+	
+}
+.right h2{
+    color:red;
+}
+
+#personal{
+    box-shadow: 10px 10px 5px #ff9200;
+    font-family:Verdana,Comic-Sans;
+    background-color:#ffbf00;
+    border-top-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+#objective{
+    box-shadow: 10px 10px 5px #ff9200;
+    font-family:Verdana,Comic-Sans;
+    background-color:#ffbf00;
+    border-top-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+.attributes{
+    box-shadow: 10px 10px 5px #ff9200;
+    font-family:Verdana,Comic-Sans;
+    background-color:#ffbf00;
+    border-top-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+#qualification{
+    box-shadow: 10px 10px 5px #ff9200;
+    font-family:Verdana,Comic-Sans;
+    background-color:#ffbf00;
+    border-top-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.languages{
+    box-shadow: 10px 10px 5px #ff9200;
+    font-family:Verdana,Comic-Sans;
+    background-color:#ffbf00;
+    border-top-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+#social a img{
+    width:100px; 
+    height:100px;
+    float:right;
+    border-top-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+a:hover {
+	font-weight: bold;
+}
